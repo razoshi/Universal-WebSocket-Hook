@@ -2,6 +2,7 @@
 Userscript that helps you to get incoming/outgoing raw and decoded data from websocket.
 
 # Examples
+How thats looks like in .io games
 
 # Deadshot.io
 <div align="center">
